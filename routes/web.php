@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\FrontEndController;
 use App\Http\Controllers\GreetingsController;
 use App\Http\Controllers\OstadController;
 use App\Http\Controllers\PersonController;
@@ -20,7 +21,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/hi',[OstadController::class, 'sayHi'])->name('hi');
 
-Route::get('/welcome', [OstadController::class, 'welcome']);
+
 Route::get('/greet/{name?}', [OstadController::class, 'greet']);
 
 Route::post("/form", [OstadController::class, 'samplePost']);
@@ -77,3 +78,13 @@ Route::get('/sayhi/{name?}', [GreetingsController::class,'sayHi'])->middleware('
 
 Route::get('/onlyhi', [GreetingsController::class,'onlyHi'])->middleware('simple_response');
 Route::get('/protected', [GreetingsController::class,'protectedResponse'])->middleware('protected');
+
+// Assignment modiule nine
+
+Route::get('/', [FrontEndController::class, 'index'])->name('index');
+
+Route::get('/about-me', [FrontEndController::class, 'aboutMe'])->name('aboutMe');
+
+Route::get('/projects', [FrontEndController::class, 'projects'])->name('projects');
+
+Route::get('/contact', [FrontEndController::class, 'contact'])->name('contact');
