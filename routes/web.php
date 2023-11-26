@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\GreetingsController;
 use App\Http\Controllers\OstadController;
 use App\Http\Controllers\PersonController;
 use App\Http\Controllers\ResponseController;
@@ -71,3 +72,8 @@ Route::middleware(["simple"])->group(function () {
     Route::get("middleman", [PersonController::class, 'middle']);
     Route::get("jum", [PersonController::class, 'middle2']);
 });
+
+Route::get('/sayhi/{name?}', [GreetingsController::class,'sayHi'])->middleware('addTitle');
+
+Route::get('/onlyhi', [GreetingsController::class,'onlyHi'])->middleware('simple_response');
+Route::get('/protected', [GreetingsController::class,'protectedResponse'])->middleware('protected');
