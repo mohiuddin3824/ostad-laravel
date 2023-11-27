@@ -3,8 +3,8 @@
           <div class="row align-items-center justify-content-center">
             <div class="col-12 col-md-9 col-lg-6 col-xl-5">
               <div class="mx-auto mb-5">
-                <span class="text-muted">Lorem ipsum</span>
-                <h2 class="display-5 fw-bold mt-2 mb-4">Lorem ipsum dolor sit amet consectutar domor at elis</h2>
+                <span class="text-muted">Get Your Website at affordable Price</span>
+                <h2 class="display-5 fw-bold mt-2 mb-4">I Can Design Anything You Want</h2>
                 <p class="lead text-muted mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.</p>
                 <a class="btn btn-primary d-inline-block" href="#">Action</a>
               </div>

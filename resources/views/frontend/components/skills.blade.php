@@ -2,7 +2,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12 col-lg-8 mx-auto text-center mb-5">
-              <span class="text-muted">Lorem Ipsum</span>
+              <span class="text-muted">SERVICES I OFFER</span>
               <h2 class="display-5 fw-bold mt-2 mb-3">Lorem ipsum dolor sit amet consectutar domor at elis</h2>
               <p class="lead text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.</p>
             </div>
@@ -12,7 +12,7 @@
               <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
                 <div class="text-center">
                   <img class="mx-auto mb-5 img-fluid" src="{{asset('frontend/assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
-                  <h4 class="fw-bold">Danny Bailey</h4>
+                  <h4 class="fw-bold">Website Design</h4>
                   <p class="text-muted">CEO &amp; Founder</p>
                 </div>
               </div>
@@ -21,7 +21,7 @@
               <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
                 <div class="text-center">
                   <img class="mx-auto mb-5 img-fluid" src="{{asset('frontend/assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
-                  <h4 class="fw-bold">Danny Bailey</h4>
+                  <h4 class="fw-bold">Web Development</h4>
                   <p class="text-muted">CEO &amp; Founder</p>
                 </div>
               </div>
@@ -30,7 +30,7 @@
               <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
                 <div class="text-center">
                   <img class="mx-auto mb-5 img-fluid" src="{{asset('frontend/assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
-                  <h4 class="fw-bold">Danny Bailey</h4>
+                  <h4 class="fw-bold">Database Design</h4>
                   <p class="text-muted">CEO &amp; Founder</p>
                 </div>
               </div>
@@ -39,7 +39,7 @@
               <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
                 <div class="text-center">
                   <img class="mx-auto mb-5 img-fluid" src="{{asset('frontend/assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
-                  <h4 class="fw-bold">Danny Bailey</h4>
+                  <h4 class="fw-bold">WordPress Theme Development</h4>
                   <p class="text-muted">CEO &amp; Founder</p>
                 </div>
               </div>
@@ -48,7 +48,7 @@
               <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
                 <div class="text-center">
                   <img class="mx-auto mb-5 img-fluid" src="{{asset('frontend/assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
-                  <h4 class="fw-bold">Danny Bailey</h4>
+                  <h4 class="fw-bold">Error Solving</h4>
                   <p class="text-muted">CEO &amp; Founder</p>
                 </div>
               </div>
@@ -57,7 +57,7 @@
               <div class="d-flex justify-content-center align-items-center py-5 bg-light rounded">
                 <div class="text-center">
                   <img class="mx-auto mb-5 img-fluid" src="{{asset('frontend/assets/images/blue-400-avatar.png')}}" alt="" style="width: 80px;height: 80px">
-                  <h4 class="fw-bold">Danny Bailey</h4>
+                  <h4 class="fw-bold">Search Engine Optimization</h4>
                   <p class="text-muted">CEO &amp; Founder</p>
                 </div>
               </div>

@@ -1,8 +1,8 @@
 <section class="py-5 bg-light">
         <div class="container">
           <div class="col-12 col-lg-8 col-xxl-7 text-center mx-auto mb-5">
-            <span class="text-muted">Lorem ipsum</span>
-            <h2 class="display-5 fw-bold mt-2 mb-3">Lorem ipsum dolor sit amet consectutar domor at elis</h2>
+            <span class="text-muted">Professional Web Developer</span>
+            <h2 class="display-5 fw-bold mt-2 mb-3">I Can Design Anything You Want</h2>
             <p class="lead text-muted mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.</p>
             <ul class="nav nav-pills justify-content-center">
               <li class="nav-item"><a class="nav-link active" href="#">Monthly</a></li>
